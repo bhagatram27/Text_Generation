@@ -1,6 +1,6 @@
 # Text Generation with Fine-Tuned DistilGPT-2
 Overview:
-This project revolves around the fine-tuning of the distilgpt2 model from the HuggingFace Transformers library on a custom dataset. The aim is to generate coherent and contextually relevant text based on the patterns and information found in the uploaded dataset.
+This project revolves around the fine-tuning of the distilgpt2 model from the HuggingFace Transformers library on a custom dataset. The aim is to generate coherent and contextually relevant text based on the patterns and information found in the uploaded dataset. The training and test txt files are also attached in this repository. the model is fine tuned on this training and test txt files. And , a simple gradio app interface is also designed for accessing the model.
 
 # Model Details:
 Model Name: DistilGPT-2 (distilgpt2)
